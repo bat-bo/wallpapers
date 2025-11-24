@@ -1,3 +1,4 @@
+THERE'S TOTAL MORE THAN 100+ WALLAPAPERS
 <!-- Displays all images inside wallpapers/walls in a grid -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- NOTE: GitHub supports wildcards in the src attribute for images -->
@@ -23,5 +24,6 @@
 <a href="https://github.com/bat-do/wallpapers/walls.git/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/⬇_Download_All_Wallpapers-4CAF50?style=for-the-badge">
 </a>
+
 
 
